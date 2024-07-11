@@ -1,0 +1,20 @@
+{
+    "Users":[
+        {
+            "id":1,
+            "fname": "Peter",
+            "lname": "Parker",
+            "gender_short" : "M",
+            "gender": "Male",
+            "score": 85
+        },
+        {
+            "id":2,
+            "fname": "Mary",
+            "lname": "Jane",
+            "gender_short" : "F",
+            "gender": "Female",
+            "score": 92.8595
+        }
+    ]
+}
